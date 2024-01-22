@@ -35,8 +35,6 @@ I'm a 21-year-old developer based in India, and I fuse creativity and functional
 
 **LinkedIn :** [saikiranannam](https://www.linkedin.com/in/saikiranannam)
 
-
-Feel free to use this icon in your project or documentation!
 🌍 **Location:** India
 
 Let's connect and explore opportunities together! 🚀
