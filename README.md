@@ -1,4 +1,4 @@
-# 👨‍💻 Hey, I'm Sai Kiran Annam! 👋
+<h1 align="center"> 👋 Hey, I'm Sai Kiran Annam! 👨‍💻 </h1>
 
 ## About Me
 I'm a 21-year-old developer based in India, and I fuse creativity and functionality for enhanced user experiences.
