@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hey, I'm Sai Kiran Annam! 👨‍💻 </h1>
 
 ## About Me
-I'm a 21-year-old developer based in India, and I fuse creativity and functionality for enhanced user experiences.
+I'm a 21-year-old developer based in Fairfax, and I fuse creativity and functionality for enhanced user experiences.
 
 
 - Check out my [website](https://www.google.com) to learn more about me.
