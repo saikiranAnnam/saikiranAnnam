@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hey, I'm Sai Kiran Annam! 👨‍💻 </h1>
 
 ## About Me
-I'm a 21-year-old developer based in Fairfax, and I fuse creativity and functionality for enhanced user experiences.
+I'm a 22-year-old developer based in Fairfax, and I fuse creativity and functionality for enhanced user experiences.
 
 
 - Check out my [website](https://www.google.com) to learn more about me.
@@ -23,19 +23,20 @@ I'm a 21-year-old developer based in Fairfax, and I fuse creativity and function
 **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Google Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ## 💼 Professional Experience
+- Graduate Research Assistant - George Mason University
 - SDE Intern at Friday AI Pvt Ltd
 - SDE Intern at Keysoft IT
 - SWE Associate Intern at Lampro Tech LLP
 
 ## 🚀 Achievements: ##
-- Participated in an OpenAI GenrativeAI hackathon and our team was ranked in the top 10 out of 60 teams.
+- Participated in an OpenAI GenrativeAI hackathon and ranked our team in the top 10 out of 60 teams.
 - AWS CLOUD PRACTITIONER issued by AWS Web Services - (Score: 780/1000)
 
 ## 📫 Contact
-📧 **Email:** saikiranannam23@gmail.com
+📧 **Email:** sannam@gmu.edu
 
 **LinkedIn :** [saikiranannam](https://www.linkedin.com/in/saikiranannam)
 
-🌍 **Location:** India
+🌍 **Location:** Fairfax,VA,USA
 
 Let's connect and explore opportunities together! 🚀
