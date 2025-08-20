@@ -23,6 +23,7 @@ I'm a 22-year-old developer based in Fairfax, and I fuse creativity and function
 **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Google Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ## 💼 Professional Experience
+- SDE Intern at Amazon (DynamoDB)
 - Graduate Research Assistant - George Mason University
 - SDE Intern at Friday AI Pvt Ltd
 - SDE Intern at Keysoft IT
