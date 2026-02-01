@@ -4,7 +4,7 @@
 I'm a 22-year-old developer based in Fairfax, and I fuse creativity and functionality for enhanced user experiences.
 
 
-- Check out my [website](https://www.google.com) to learn more about me.
+- Check out my [website](https://saikiran-sde-portfolio.vercel.app/) to learn more about me.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/saikiranannam).
 - Explore my [blogs](https://saikirantech.hashnode.dev/), I share my learnings and tips to become a better software developer.
 - Explore my [VS Code Configuration](https://github.com/saikiranAnnam/vscode-settings) for development optimization.
