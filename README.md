@@ -29,6 +29,9 @@ I'm a 22-year-old developer based in Fairfax, and I fuse creativity and function
 - SDE Intern at Keysoft IT
 - SWE Associate Intern at Lampro Tech LLP
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saikiranAnnam&theme=dark)](https://git.io/streak-stats)
+
 ## 🚀 Achievements: ##
 - Participated in an OpenAI GenrativeAI hackathon and ranked our team in the top 10 out of 60 teams.
 - AWS CLOUD PRACTITIONER issued by AWS Web Services - (Score: 780/1000)
