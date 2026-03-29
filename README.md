@@ -1,8 +1,11 @@
 <h1 align="center"> 👋 Hey, I'm Sai Kiran Annam! 👨‍💻 </h1>
 
 ## About Me
-I'm a 22-year-old developer based in Fairfax, and I fuse creativity and functionality for enhanced user experiences.
+I'm a 23-year-old developer based in Fairfax, passionate about building systems that actually work in the real world.
 
+I work across full-stack development, distributed systems, and AI—designing end-to-end applications from backend infrastructure and APIs to user-facing interfaces. Recently, I’ve been focused on building evaluation systems for LLMs, where I analyze how models fail (hallucination, reasoning gaps, retrieval errors) and improve their reliability at scale.
+
+I enjoy solving problems that sit at the intersection of systems, data, and real-world impact.
 
 - Check out my [website](https://saikiran-sde-portfolio.vercel.app/) to learn more about me.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/saikiranannam).
@@ -10,37 +13,55 @@ I'm a 22-year-old developer based in Fairfax, and I fuse creativity and function
 - Explore my [VS Code Configuration](https://github.com/saikiranAnnam/vscode-settings) for development optimization.
 
 
-## Toolbox 📦
+## 🚀 Snapshot — What I’ve Built & What I’m Building
 
-**Programming Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 🧠 TraceDog (Current)
+Building **TraceDog**, an LLM evaluation & observability system to analyze how AI models behave in real-world applications.  
+It decomposes outputs into verifiable claims, scores correctness and groundedness, and traces execution across prompts, retrieval, and tools.
 
-**Frameworks & Libraries:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+→ Reduced hallucination from ~38% → ~12% using retrieval-grounded validation  
+→ Enabled cross-model evaluation (OpenAI, Claude, Gemini, LLaMA) under identical inputs  
+🔗 GitHub: [https://github.com/](https://github.com/saikiranAnnam/TraceDog)
+🌐 Learn more: [https://tracedog.me](https://www.tracedog.me/)
 
-**Database & Management Systems:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+---
 
-**Operating Systems:** ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+### ⚙️ TrueCaptcha (Co-Founder)
+Built and scaled an **AI SaaS CAPTCHA-solving platform** with full-stack architecture and distributed processing.
 
-**Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Google Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+→ Scaled to **1M+ API requests/day (2.8M peak)** across 330+ users  
+→ Generated **~$20K+ revenue** with high-concurrency, low-latency systems  
+→ Reduced latency ~7s → ~1s (~85%) using caching + async pipelines  
+🌐 Learn more: [https://tracedog.me](https://truecaptcha.org/)
+
 
 ## 💼 Professional Experience
-- SDE Intern at Amazon (DynamoDB)
-- Graduate Research Assistant - George Mason University
+~3+ years of experience building **production-grade systems at scale**
+
+- SDE Intern at Amazon (DynamoDB) -  Built event driven distributed systems to trigger validation workflows across DynamoDB multi-region infrastructure
+- Graduate Research Assistant - George Mason University & NASA - Built ML-driven scheduling systems improving HPC efficiency by ~80% (https://geoweaver.dev/)
 - SDE Intern at Friday AI Pvt Ltd
 - SDE Intern at Keysoft IT
-- SWE Associate Intern at Lampro Tech LLP
+- SWE Intern at Lampro Tech LLP
+
+
+## 🧠 Focus Areas
+
+- LLM Evaluation & Failure Analysis  
+- Distributed Systems & Scalability  
+- AI Observability & Debugging
+- Full Stack Development
+- Backend Infrastructure & APIs
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saikiranAnnam&theme=dark)](https://git.io/streak-stats)
 
-## 🚀 Achievements: ##
-- Participated in an OpenAI GenrativeAI hackathon and ranked our team in the top 10 out of 60 teams.
-- AWS CLOUD PRACTITIONER issued by AWS Web Services - (Score: 780/1000)
-
 ## 📫 Contact
-📧 **Email:** sannam@gmu.edu
+
+📧 **Email:** saikiranannam99@gmail.com
 
 **LinkedIn :** [saikiranannam](https://www.linkedin.com/in/saikiranannam)
 
 🌍 **Location:** Fairfax,VA,USA
 
-Let's connect and explore opportunities together! 🚀
+Open to AI engineering, distributed systems, and evaluation-focused roles. Let's connect and explore opportunities together! 🚀
