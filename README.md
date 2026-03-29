@@ -22,6 +22,7 @@ It decomposes outputs into verifiable claims, scores correctness and groundednes
 → Reduced hallucination from ~38% → ~12% using retrieval-grounded validation  
 → Enabled cross-model evaluation (OpenAI, Claude, Gemini, LLaMA) under identical inputs  
 🔗 GitHub: [https://github.com/](https://github.com/saikiranAnnam/TraceDog)
+
 🌐 Learn more: [https://tracedog.me](https://www.tracedog.me/)
 
 ---
@@ -32,7 +33,7 @@ Built and scaled an **AI SaaS CAPTCHA-solving platform** with full-stack archite
 → Scaled to **1M+ API requests/day (2.8M peak)** across 330+ users  
 → Generated **~$20K+ revenue** with high-concurrency, low-latency systems  
 → Reduced latency ~7s → ~1s (~85%) using caching + async pipelines  
-🌐 Learn more: [https://tracedog.me](https://truecaptcha.org/)
+🌐 Learn more: [https://truecaptcha.org](https://truecaptcha.org/)
 
 
 ## 💼 Professional Experience
